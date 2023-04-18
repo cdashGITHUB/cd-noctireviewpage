@@ -1,0 +1,63 @@
+/* Color Pallet: 
+0D3B66 - Blue
+FAF0CA - Tan
+F4D35E - Gold
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+color: #000;
+}
+
+h1 {
+color: #000;
+}
+
+h2 {
+color: #000;
+}
+
+blockquote {
+ font-size: 3em;
+ text-align: center;
+ background-color: #0D3B66;
+ color: #F4D35E;
+}
+
+table {
+color: #000;
+}
+
+header {
+color: #000;
+}
+
+nav {
+color: #000;
+text-align: center;
+background-color: #FAF0CA;
+}
+
+ul {
+color: #000;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav a {
+ text-decoration: none;
+ color: #000;
+}
+
+nav a:hover {
+    color: #fff;
+    background-color: #000;
+}
